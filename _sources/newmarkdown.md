@@ -2,10 +2,10 @@
 
 Here is some text.
 
-(section-label)=
+(section-label-1)=
 ## Here is the first section
 
-here is a reference to [this title](section-label).
+here is a reference to [this title](section-label-1).
 
 
 ```{tip}
