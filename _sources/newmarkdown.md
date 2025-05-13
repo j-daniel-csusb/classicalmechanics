@@ -9,6 +9,5 @@ here is a reference to [this title](section-label).
 
 
 ```{tip}
-
 Here is a helpful tip
 ```
