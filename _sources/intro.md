@@ -6,5 +6,6 @@ This is an interactive Jupyter Book for Phys 3200- Classical Mechanics I at CSUS
 
 
 
-```{tableofcontents}
+```
+{tableofcontents}
 ```
