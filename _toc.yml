@@ -1,0 +1,26 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+
+parts:
+  - caption: Class information and Important Materials
+    chapters:
+    - file : placeholder
+  - caption: Introduction to Python and Newtonian Mechanics Refresher 
+    chapters:
+    - file: mymarkdown
+    - file: newmarkdown
+    - file: arbitrary_sinewave
+  - caption: Homework
+    chapters:
+    - file: Homework_placeholder
+  - caption: Projects
+    chapters:
+    - file: Projects_placeholder
+  - caption: Exams
+    chapters:
+    - file: Exam_placeholder
+
+
