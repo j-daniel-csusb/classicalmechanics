@@ -1,6 +1,6 @@
 # Welcome to Phys 3200 - Classical Mechanics 
 
-This is an interactive Jupyter Book for Phys 3200- Classical Mechanics I at CSUSB for Fall 2025.
+This is an interactive Jupyter Book for Phys 3200- Classical Mechanics I at CSUSB for Fall 2025. This jupyter book will contain supplementary material for use alongside lectures and readings. You will also find assignments, examples, and quizzes here. We will submit any assignments via the course canvas page. All jupyter notebook examples will require an installation of python and necessary libraries. This is a living document and will evolve and change as we progress through material and the semester overall. 
 
 ## Learning Outcomes
 
