@@ -19,8 +19,8 @@ parts:
   - caption: Projects
     chapters:
     - file: Projects_placeholder
-  - caption: Exams
+  - caption: End of Topic Quizzes
     chapters:
-    - file: Exam_placeholder
+    - file: End_Of_Topic_Quizzes
 
 
