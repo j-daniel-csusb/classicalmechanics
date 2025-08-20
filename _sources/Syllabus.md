@@ -1,6 +1,4 @@
-﻿![ref1]*Fall Semester 2025*
-
-**Created with an evaluation copy of Aspose.Words. To remove all limitations, you can use Free Temporary License [**https://products.aspose.com/words/temporary-license/**](https://products.aspose.com/words/temporary-license/)**
+*Fall Semester 2025*
 
 ![California State University, San Bernardino - Wikipedia](Syllabus.002.png)
 
@@ -87,9 +85,6 @@ While we will not have a portion of the overall grade reflect class attendance i
 
 Your grade for this course is based on the following activities, weighted as shown.
 
-**Evaluation Only. Created with Aspose.Words. Copyright 2003-2025 Aspose Pty Ltd.**
-![ref2]
-
 **Grade Distribution Percentage** 
 
 Lecture notes		 10%
@@ -161,7 +156,5 @@ In keeping with the university’s Commitment to Diversity, the faculty of the C
 **Disclaimer**
 
 This syllabus is subject to change with reasonable notice. Changes will be announced in class and the new syllabus will be uploaded to Canvas.					
-**Evaluation Only. Created with Aspose.Words. Copyright 2003-2025 Aspose Pty Ltd.**
 
-[ref1]: Syllabus.001.png
-[ref2]: Syllabus.003.png
+
