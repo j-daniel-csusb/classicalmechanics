@@ -15,7 +15,7 @@ parts:
     - file: arbitrary_sinewave
   - caption: Homework
     chapters:
-    - file: Homework_placeholder
+    - file: HW0
   - caption: Projects
     chapters:
     - file: Projects_placeholder
