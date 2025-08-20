@@ -1,8 +1,8 @@
+# Course Syllabus
+
 *Fall Semester 2025*
 
 ![California State University, San Bernardino - Wikipedia](Syllabus.002.png)
-
-**Course Syllabus**
 
 **PHYS 3200 – Classical Mechanics**
 
