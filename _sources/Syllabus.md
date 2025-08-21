@@ -1,8 +1,10 @@
 # Course Syllabus
-
 *Fall Semester 2025*
 
+
 ![California State University, San Bernardino - Wikipedia](Syllabus.002.png)
+
+
 
 **PHYS 3200 – Classical Mechanics**
 
@@ -81,13 +83,36 @@ We will be utilizing basic coding skills in python, but no previous experience i
 
 While we will not have a portion of the overall grade reflect class attendance it is important to attend all scheduled class meetings. A few missed lectures due to unforeseen circumstances will not be a problem, however you will not be successful in this course without attending lectures. All quizzes will be assigned during class time and will occur at varying times throughout the semester, missing one class could put you at risk of missing quizzes or important instruction. If there are circumstances that prevent you from attending a class meeting let the instructor know in as far in advance as possible so that arrangements can be made, if there is no attempt to adequately inform the instructor no make-up work will be available for any missed material due to absence.
 
+**Curriculum Schedule**
+
+|Week |Tuesday|Thursday|
+| :- | :- | :- |
+|1 (8/25-29)|Introduction to Course & Taylor Ch 1/2|Taylor Ch 1/2 (HW 0)|
+|2 (9/1-5)|Taylor Ch 1/2|Taylor Ch 1/2 (HW 1)|
+|3 (9/8-12)|Taylor Ch 3 (Quiz 1)|Taylor Ch 3    (Project 1)|
+|4 (9/15-19)|Taylor Ch 3 (Quiz 2)|Taylor Ch 4     (HW 2)|
+|5 (9/22-26)|Taylor Ch 4|Taylor Ch 4   (HW 3)|
+|6 (9/29-10/3)|Taylor Ch 5 (Quiz 3)|Taylor Ch 5   (Project 2)|
+|7 (10/6-10)|Taylor Ch 5 (Quiz 4)|Taylor Ch 6 (HW 4)|
+|8 (10/13-17)|Taylor Ch 6|Taylor Ch 6 (HW 5)|
+|9 (10/20-24)|Taylor Ch 6/7 (Quiz 5)|Taylor Ch 7|
+|10 (10/27-31)|Taylor Ch 7|Taylor Ch 7 (Project 3)|
+|11 (11/3-7)|Taylor Ch 7 (Quiz 6)|Taylor Ch 7/8 (HW 6)|
+|12 (11/10-14)|Taylor Ch 8|Taylor Ch 8 (Start Final Project)|
+|13 (11/17-21)|Taylor Ch 8 (Quiz 7)|Taylor Ch 13 (HW 7)|
+|14 (11/24-28)|Taylor Ch 13|No Class|
+|15 (12/1-5)|Taylor Ch 13 (Quiz 8)|Final Project Wrap Up|
+|Finals |Final Project Presentations||
+
+\*subject to change based on progress through material
+
 **Grading Policy**
 
 Your grade for this course is based on the following activities, weighted as shown.
 
 **Grade Distribution Percentage** 
 
-Lecture notes		 10%
+Lecture notes		 5%
 
 Keeping detailed and useful lecture notes is a requirement for succeeding in learning any topic and to depict this importance a portion (5%) of your entire grade will be based on taking notes during lecture. We will have 5 notebook check-ins throughout the semester in which I will evaluate your note keeping, each check-in will contribute 1% towards the cumulative total. Your notes can be in any legible form be it a physical or E-notebook. 
 
@@ -97,14 +122,14 @@ This course will require in class participation in the form of asking questions,
 
 Homework		15%
 
-We will have weekly homework assignments in which students will work on assigned problems from the book and some weeks we will have ‘mini-computational’ projects that students will be tasked with. Homework will be graded both on completion and randomly on correctness for a chosen number of problems from any assigned problem set. All homework will have posted solutions shortly after the due dates. All homework assignments will have an optional reflection to make up for a portion of any lost points on the assignment, these reflections will be due one week after the solutions for the original assignment are posted.
+We will have weekly homework assignments or projects in which students will work on assigned problems from the book and some weeks we will have ‘mini-computational’ projects that students will be tasked with. Homework will be graded both on completion and randomly on correctness for a chosen number of problems from any assigned problem set. All homework will have posted solutions shortly after the due dates. All homework assignments will have an optional reflection to make up for a portion of any lost points on the assignment, these reflections will be due one week after the solutions for the original assignment are posted.
 
 \
 End of Topic Quizzes   40%   
 
-We will have a short quiz (~20-30 mins) at the end of each chapter we cover during this course. We plan to cover around 12 chapters so that means there will be roughly 12 quizzes. The cumulative score of all quizzes will be based on only 10 total quizzes, where each quiz will account for roughly ~4% of your total grade. This means that roughly 2 quiz scores will be dropped depending on the number of chapters we cover throughout the course. If the quiz was previously attempted, students will also have a chance to complete an optional reflection for any quiz they choose that will be worth 50% of any missing points for a given quiz. The optional reflection will be due one week after grades and/or solutions are posted for the designated quiz.
+We will have a short quiz (~20-30 mins) at the end of each chapter we cover during this course. We plan to cover around 8 chapters so that means there will be roughly 8 quizzes, where each quiz will account for roughly ~5% of your total grade. The cumulative score of all quizzes will be based on only 6 out of the 8 total quizzes, this means that roughly 2 quizzes will be dropped depending on the number of chapters we cover throughout the course. If the quiz was previously attempted, students will also have a chance to complete an optional reflection for any quiz they choose that will be worth 50% of any missing points for a given quiz. The optional reflection will be due one week after grades and/or solutions are posted for the designated quiz.
 
-Final Project                25%   
+Final Project                30%   
 
 Each student will demonstrate what they learned throughout the course by identifying a classical mechanics-based problem and attempting to solve and/or analyze it. This will be done in the form of a formal project. Which will consist of: A literature review covering the aspects and key ideas of the problem, a computational/analytical analysis of the problem, identification of a solution or application of the problem and a class presentation tying it all together and relaying it to an audience. 
 
@@ -112,7 +137,7 @@ The deliverables of the project will be:
 
 A short paper (~2 pages) describing the project as a whole. (10%)
 
-A commented and organized jupyter notebook for all the code required for the project (5%)
+A commented and organized jupyter notebook for all the code required for the project (10%)
 
 A short (~8 min) in class presentation (10%)
 
@@ -156,5 +181,3 @@ In keeping with the university’s Commitment to Diversity, the faculty of the C
 **Disclaimer**
 
 This syllabus is subject to change with reasonable notice. Changes will be announced in class and the new syllabus will be uploaded to Canvas.					
-
-
