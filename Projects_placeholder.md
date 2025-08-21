@@ -1,5 +1,5 @@
 # Project 1
 
-This will be where projects are located
+This will be where projects are located.
 
 

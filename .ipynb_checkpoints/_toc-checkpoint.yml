@@ -8,10 +8,10 @@ parts:
   - caption: Class information and Important Materials
     chapters:
     - file : Syllabus
-  - caption: Introduction to Python and Newtonian Mechanics Refresher 
+  - caption: Introduction to Python and Newtonian Mechanics
     chapters:
-    - file: mymarkdown
-    - file: newmarkdown
+    - file: Classroom_notes
+    - file: Examples
     - file: arbitrary_sinewave
   - caption: Homework
     chapters:
