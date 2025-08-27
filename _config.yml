@@ -20,6 +20,13 @@ latex:
 bibtex_bibfiles:
   - references.bib
 
+sphinx:
+  config:
+    nb_custom_formats:
+      .do.txt:
+        - jupytext.reads
+        - fmt: txt
+
 # Information about where the book exists on the web
 # repository:
 #   url: https://github.com/executablebooks/jupyter-book  # Online location of your book

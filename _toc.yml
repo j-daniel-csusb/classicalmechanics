@@ -13,13 +13,12 @@ parts:
     chapters:
     - file: Classroom_notes
     - file: Examples
-    - file: arbitrary_sinewave
   - caption: Homework
     chapters:
     - file: HW0
   - caption: Projects
     chapters:
-    - file: Projects_placeholder
+    - file: Baseball_Falling
   - caption: End of Topic Quizzes
     chapters:
     - file: End_Of_Topic_Quizzes
