@@ -189,6 +189,7 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Introduction to Python and Newtonian Mechanics</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="Classroom_notes.html">Class notes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Oscillating_Skateboard.html">Oscillating Skateboard Simulation</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Examples.html">Ch 1 and 2 Examples</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Homework</span></p>
@@ -350,9 +351,12 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#compact-equations">Compact equations</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#integrating-our-equations">Integrating our equations</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#computing-the-averages">Computing the averages</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#equations-of-motion">Equations of Motion</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#compact-equations">Compact equations</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#integrating-our-equations">Integrating our equations</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#computing-the-averages">Computing the averages</a></li>
+</ul>
+</li>
 </ul>
             </nav>
         </div>
@@ -364,8 +368,10 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article">
                   
-  <section id="falling-baseball-in-one-dimension">
+  <section class="tex2jax_ignore mathjax_ignore" id="falling-baseball-in-one-dimension">
 <h1>Falling baseball in one dimension<a class="headerlink" href="#falling-baseball-in-one-dimension" title="Link to this heading">#</a></h1>
+<section id="equations-of-motion">
+<h2>Equations of Motion<a class="headerlink" href="#equations-of-motion" title="Link to this heading">#</a></h2>
 <p>We anticipate the mathematical model to come and assume that we have a
 model for the motion of a falling baseball without air resistance.
 Our system (the baseball) is at an initial height <span class="math notranslate nohighlight">\(y_0\)</span> (which we will
@@ -605,7 +611,7 @@ with <span class="math notranslate nohighlight">\(i=0,1,\dots, n\)</span>. This 
 y_{i\pm 1} = y(t_i\pm \Delta t),\hspace{0.12cm} i=0,1,2,\dots,n.
 \]</div>
 <section id="compact-equations">
-<h2>Compact equations<a class="headerlink" href="#compact-equations" title="Link to this heading">#</a></h2>
+<h3>Compact equations<a class="headerlink" href="#compact-equations" title="Link to this heading">#</a></h3>
 <p>We can then rewrite in a more compact form the average velocity as</p>
 <div class="math notranslate nohighlight">
 \[
@@ -655,7 +661,7 @@ F(y,v,t)=m\frac{d^2y}{dt^2}=ma(t,y(t),\frac{dy}{dt}),
 We will come back to this soon.</p>
 </section>
 <section id="integrating-our-equations">
-<h2>Integrating our equations<a class="headerlink" href="#integrating-our-equations" title="Link to this heading">#</a></h2>
+<h3>Integrating our equations<a class="headerlink" href="#integrating-our-equations" title="Link to this heading">#</a></h3>
 <p>Formally we can then, starting with the acceleration (suppose we have measured it, how could we do that?)
 compute say the height of a building.  To see this we perform the following integrations from an initial time <span class="math notranslate nohighlight">\(t_0\)</span>  to a given time <span class="math notranslate nohighlight">\(t\)</span></p>
 <div class="math notranslate nohighlight">
@@ -706,7 +712,7 @@ y(t)=10-\frac{1}{2}gt^2.
 \]</div>
 </section>
 <section id="computing-the-averages">
-<h2>Computing the averages<a class="headerlink" href="#computing-the-averages" title="Link to this heading">#</a></h2>
+<h3>Computing the averages<a class="headerlink" href="#computing-the-averages" title="Link to this heading">#</a></h3>
 <p>After this mathematical background we are now ready to compute the mean velocity using our data.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -856,6 +862,7 @@ y(t)=10-\frac{1}{2}gt^2.
 </div>
 </section>
 </section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -921,9 +928,12 @@ y(t)=10-\frac{1}{2}gt^2.
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#compact-equations">Compact equations</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#integrating-our-equations">Integrating our equations</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#computing-the-averages">Computing the averages</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#equations-of-motion">Equations of Motion</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#compact-equations">Compact equations</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#integrating-our-equations">Integrating our equations</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#computing-the-averages">Computing the averages</a></li>
+</ul>
+</li>
 </ul>
   </nav></div>
 
