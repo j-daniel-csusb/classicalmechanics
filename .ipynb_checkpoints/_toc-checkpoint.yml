@@ -12,6 +12,7 @@ parts:
   - caption: Introduction to Python and Newtonian Mechanics
     chapters:
     - file: Classroom_notes
+    - file: Oscillating_Skateboard
     - file: Examples
   - caption: Homework
     chapters:
