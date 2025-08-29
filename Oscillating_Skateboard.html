@@ -368,13 +368,17 @@ document.write(`
 <h1>Oscillating Skateboard Simulation<a class="headerlink" href="#oscillating-skateboard-simulation" title="Link to this heading">#</a></h1>
 <section id="equations-of-motion">
 <h2>Equations of Motion<a class="headerlink" href="#equations-of-motion" title="Link to this heading">#</a></h2>
-<p>Equation of motion for skateboard pendulum:
-$<span class="math notranslate nohighlight">\(\ddot\phi = -\frac{g}{R}sin\phi\)</span>$</p>
-<p>Define new variable for angular velocity:
-$<span class="math notranslate nohighlight">\(\omega = \frac{d\phi}{dt}\)</span><span class="math notranslate nohighlight">\(
-Seperate EOM into two first order ODEs: 
-\)</span><span class="math notranslate nohighlight">\(\frac{d\phi}{dt}=\omega\)</span><span class="math notranslate nohighlight">\(
-\)</span><span class="math notranslate nohighlight">\(\frac{d\omega}{dt}=-\frac{g}{R}sin\phi\)</span>$</p>
+<p>Equation of motion for skateboard pendulum:</p>
+<div class="math notranslate nohighlight">
+\[\ddot\phi = -\frac{g}{R}sin\phi\]</div>
+<p>Define new variable for angular velocity:</p>
+<div class="math notranslate nohighlight">
+\[\omega = \frac{d\phi}{dt}\]</div>
+<p>Seperate EOM into two first order ODEs:</p>
+<div class="math notranslate nohighlight">
+\[\frac{d\phi}{dt}=\omega\]</div>
+<div class="math notranslate nohighlight">
+\[\frac{d\omega}{dt}=-\frac{g}{R}sin\phi\]</div>
 </section>
 <section id="code">
 <h2>Code<a class="headerlink" href="#code" title="Link to this heading">#</a></h2>
@@ -407,7 +411,7 @@ Seperate EOM into two first order ODEs:
 
 <span class="c1"># Initial conditions</span>
 <span class="n">phi_initial</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">radians</span><span class="p">(</span><span class="mi">15</span><span class="p">)</span>  <span class="c1"># Initial angle in radians (15 degrees)</span>
-<span class="n">omega_initial</span> <span class="o">=</span> <span class="mf">0.0</span>             <span class="c1"># Initial angular velocity (starting from rest)</span>
+<span class="n">omega_initial</span> <span class="o">=</span> <span class="mi">0</span>          <span class="c1"># Initial angular velocity (starting from rest)</span>
 <span class="n">y0</span> <span class="o">=</span> <span class="p">[</span><span class="n">phi_initial</span><span class="p">,</span> <span class="n">omega_initial</span><span class="p">]</span>
 
 <span class="c1"># Time span for the simulation</span>
