@@ -17,6 +17,7 @@ parts:
   - caption: Homework
     chapters:
     - file: HW0
+    - file: HW1
   - caption: Projects
     chapters:
     - file: Baseball_Falling
