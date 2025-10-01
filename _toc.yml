@@ -13,7 +13,6 @@ parts:
     chapters:
     - file: Classroom_notes
     - file: Oscillating_Skateboard
-    - file: Examples
   - caption: Homework
     chapters:
     - file: HW0
