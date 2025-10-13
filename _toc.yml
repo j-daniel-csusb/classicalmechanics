@@ -15,11 +15,11 @@ parts:
     - file: Oscillating_Skateboard
   - caption: Homework
     chapters:
-    - file: HW0
-    - file: HW1
+    - file: Homework
   - caption: Projects
     chapters:
     - file: Baseball_Falling
+    - file: Project2_Shell
   - caption: End of Topic Quizzes
     chapters:
     - file: End_Of_Topic_Quizzes
