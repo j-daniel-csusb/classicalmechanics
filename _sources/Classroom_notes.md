@@ -7,3 +7,6 @@ Chapter 2 Notes: [chapter 2 taylor](https://github.com/j-daniel-csusb/classicalm
 Chapter 3 Notes: [chapter 3 taylor](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Notes/Ch3notes.pdf)
 Chapter 4 Notes: [chapter 4 taylor](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Notes/Ch4notes.pdf)
 Chapter 5 Notes: [chapter 5 taylor](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Notes/Ch5notes.pdf)
+Chapter 6 Notes: [chapter 5 taylor](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Notes/Ch6notes.pdf)
+Chapter 7 Notes: [chapter 5 taylor](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Notes/Ch7notes.pdf)
+Chapter 13 Notes: [chapter 5 taylor](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Notes/Ch13notes.pdf)
