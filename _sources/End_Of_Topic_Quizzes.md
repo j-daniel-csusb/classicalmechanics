@@ -2,6 +2,8 @@
 
 End of Topic Quizzes and Solutions will be posted here.
 
+<!-- 2025 Quizzes
+
 Quiz 1: [Chapter 1 and 2 Quiz](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Quizzes/Phys_3200___End_of_Topic_Quiz_1.pdf)
 Quiz 2: [Chapter 3 Quiz](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Quizzes/Phys_3200___End_of_Topic_Quiz_2__ch3.pdf)
 Quiz 3: [Chapter 4 Quiz](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Quizzes/Phys_3200___End_of_Topic_Quiz_3__Ch4_.pdf)
@@ -17,4 +19,4 @@ Solutions 3: [Chapter 4 Quiz Solutions](https://github.com/j-daniel-csusb/classi
 Solutions 4: [Chapter 5 Quiz Solutions](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Quizzes/Quiz_Solutions/End_of_topic_Quiz_4_Solutions.pdf)
 Solutions 5: [Chapter 6 Quiz Solutions](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Quizzes/Quiz_Solutions/End_of_topic_Quiz_5_Solutions.pdf)
 Solutions 6: [Chapter 7 Quiz Solutions](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Quizzes/Quiz_Solutions/End_of_topic_Quiz_6_Solutions.pdf)
-Solutions 7: [Chapter 13 Quiz Solutions](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Quizzes/Quiz_Solutions/End_of_topic_Quiz_7_Solutions.pdf)
+Solutions 7: [Chapter 13 Quiz Solutions](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Quizzes/Quiz_Solutions/End_of_topic_Quiz_7_Solutions.pdf)-->
