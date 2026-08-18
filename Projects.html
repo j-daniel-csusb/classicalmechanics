@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Project 2 &#8212; Phys 3200 - Classical Mechanics</title>
+    <title>Projects &#8212; Phys 3200 - Classical Mechanics</title>
   
   
   
@@ -60,12 +60,12 @@
     <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
-    <script>DOCUMENTATION_OPTIONS.pagename = 'Project2_Shell';</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'Projects';</script>
     <script>DOCUMENTATION_OPTIONS.search_as_you_type = false;</script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="End of Topic Quizzes" href="End_Of_Topic_Quizzes.html" />
-    <link rel="prev" title="Project 1" href="Baseball_Falling.html" />
+    <link rel="prev" title="Homework" href="Homework.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   <meta name="docsearch:version" content="" />
@@ -153,10 +153,6 @@
   
 
   
-    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
-      <span class="fa-solid fa-outdent"></span>
-    </button>
-  
 </div>
 
     </header>
@@ -224,10 +220,9 @@
 <li class="toctree-l1"><a class="reference internal" href="Syllabus2026.html">Course Syllabus</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Resources.html">Links to Resources</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading"><span class="caption-text">Introduction to Python and Newtonian Mechanics</span></p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Class Notes and Examples</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="Classroom_notes.html">Class notes</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Oscillating_Skateboard.html">Oscillating Skateboard Simulation</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Homework</span></p>
 <ul class="nav bd-sidenav">
@@ -235,12 +230,7 @@
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Projects</span></p>
 <ul class="current nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="Baseball_Falling.html">Project 1</a></li>
-
-
-<li class="toctree-l1 current active"><a class="current reference internal" href="#">Project 2</a></li>
-
-
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Projects</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">End of Topic Quizzes</span></p>
 <ul class="nav bd-sidenav">
@@ -304,7 +294,7 @@
       
       
       
-      <li><a href="_sources/Project2_Shell.ipynb" target="_blank"
+      <li><a href="_sources/Projects.md" target="_blank"
    class="btn btn-sm btn-download-source-button dropdown-item"
    title="Download source file"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -314,7 +304,7 @@
 <span class="btn__icon-container">
   <i class="fas fa-file"></i>
   </span>
-<span class="btn__text-container">.ipynb</span>
+<span class="btn__text-container">.md</span>
 </a>
 </li>
       
@@ -367,9 +357,7 @@
 <button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
 </button>
-<button class="sidebar-toggle secondary-toggle btn btn-sm pst-navbar-icon" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <span class="fa-solid fa-list"></span>
-</button>
+
 </div></div>
       
     </div>
@@ -380,22 +368,11 @@
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>Project 2</h1>
+    <h1>Projects</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
             
-            <div>
-                <h2> Contents </h2>
-            </div>
-            <nav aria-label="Page">
-                <ul class="pst-show_toc_level nav section-nav flex-column">
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Project 2</a></li>
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#instructions">Instructions</a></li>
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#code-shell">Code Shell</a></li>
-</ul>
-
-            </nav>
         </div>
     </div>
 </div>
@@ -405,66 +382,9 @@
 <div id="searchbox"></div>
                 <article class="bd-article">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="project-2">
-<h1>Project 2<a class="headerlink" href="#project-2" title="Link to this heading">#</a></h1>
-</section>
-<section class="tex2jax_ignore mathjax_ignore" id="instructions">
-<h1>Instructions<a class="headerlink" href="#instructions" title="Link to this heading">#</a></h1>
-<p>Using the shell of code below reproduce the following graph demonstrating different types of oscillatory motion.
-You will need to define necessary parameters and insert specific equations to get the code to work!
-Along the way also make sure to address any questions commented next to specific lines!</p>
-<p><img alt="Oscillations" src="_images/Oscillations.png" /></p>
-</section>
-<section class="tex2jax_ignore mathjax_ignore" id="code-shell">
-<h1>Code Shell<a class="headerlink" href="#code-shell" title="Link to this heading">#</a></h1>
-<div class="cell docutils container">
-<div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span><span class="w"> </span><span class="nn">numpy</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">np</span>
-<span class="kn">import</span><span class="w"> </span><span class="nn">matplotlib.pyplot</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">plt</span>
-
-<span class="c1"># Parameters </span>
-<span class="n">omega0</span> <span class="o">=</span>      <span class="c1"># natural frequency (rad/s)</span>
-<span class="n">x0</span>     <span class="o">=</span>     <span class="c1"># initial amplitude (m)</span>
-<span class="n">phi</span>    <span class="o">=</span>   <span class="c1"># phase angle (radians)</span>
-<span class="n">v0</span>     <span class="o">=</span> <span class="mi">0</span>     <span class="c1"># initial velocity (m/s)</span>
-<span class="n">T</span>      <span class="o">=</span>    <span class="c1"># total simulation time (s)</span>
-
-<span class="n">t</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">linspace</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="n">T</span><span class="p">,</span> <span class="mi">1000</span><span class="p">)</span>
-
-<span class="k">def</span><span class="w"> </span><span class="nf">damped_solution</span><span class="p">(</span><span class="n">t</span><span class="p">,</span> <span class="n">x0</span><span class="p">,</span> <span class="n">v0</span><span class="p">,</span> <span class="n">omega0</span><span class="p">,</span> <span class="n">beta</span><span class="p">,</span> <span class="n">phi</span><span class="o">=</span><span class="mf">0.0</span><span class="p">):</span>
-<span class="w">    </span><span class="sd">&quot;&quot;&quot;</span>
-<span class="sd">    Return x(t) for a damped oscillator with damping coefficient β and phase φ.</span>
-<span class="sd">    Equation: x&#39;&#39; + 2βx&#39; + ω₀²x = 0</span>
-<span class="sd">    &quot;&quot;&quot;</span>
-    <span class="k">if</span> <span class="n">beta</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>  <span class="c1"># What type of oscillation?</span>
-        <span class="n">x</span> <span class="o">=</span> <span class="c1">#insert equation for specified oscillation type.</span>
-    <span class="k">elif</span> <span class="n">beta</span> <span class="o">&lt;</span> <span class="n">omega0</span><span class="p">:</span>  <span class="c1"># What type of oscillation?</span>
-        <span class="n">omega1</span> <span class="o">=</span> <span class="c1">#insert equation for omega 1</span>
-        <span class="n">x</span> <span class="o">=</span> <span class="c1">#insert equation for specified oscillation type.</span>
-    <span class="k">elif</span> <span class="n">np</span><span class="o">.</span><span class="n">isclose</span><span class="p">(</span><span class="n">beta</span><span class="p">,</span> <span class="n">omega0</span><span class="p">):</span>  <span class="c1"># What type of oscillation?</span>
-        <span class="n">C1</span> <span class="o">=</span> <span class="n">x0</span>
-        <span class="n">C2</span> <span class="o">=</span> <span class="n">v0</span><span class="o">+</span><span class="n">beta</span><span class="o">*</span><span class="n">x0</span>
-        <span class="n">x</span> <span class="o">=</span> <span class="p">(</span><span class="n">C1</span> <span class="o">+</span> <span class="n">C2</span><span class="o">*</span><span class="p">(</span><span class="n">t</span><span class="o">+</span><span class="n">phi</span><span class="o">/</span><span class="n">omega0</span><span class="p">))</span><span class="o">*</span><span class="n">np</span><span class="o">.</span><span class="n">exp</span><span class="p">(</span><span class="o">-</span><span class="n">beta</span><span class="o">*</span><span class="p">(</span><span class="n">t</span><span class="o">+</span><span class="n">phi</span><span class="o">/</span><span class="n">omega0</span><span class="p">))</span>
-    <span class="k">elif</span><span class="p">:</span> <span class="n">beta</span> <span class="o">&gt;</span> <span class="n">omega0</span> <span class="c1"># What type of oscillation?</span>
-        <span class="n">r1</span> <span class="o">=</span> <span class="o">-</span><span class="n">beta</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">beta</span><span class="o">**</span><span class="mi">2</span> <span class="o">-</span> <span class="n">omega0</span><span class="o">**</span><span class="mi">2</span><span class="p">)</span>
-        <span class="n">r2</span> <span class="o">=</span> <span class="o">-</span><span class="n">beta</span> <span class="o">-</span> <span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">beta</span><span class="o">**</span><span class="mi">2</span> <span class="o">-</span> <span class="n">omega0</span><span class="o">**</span><span class="mi">2</span><span class="p">)</span>
-        <span class="n">C1</span> <span class="o">=</span> <span class="p">(</span><span class="n">v0</span> <span class="o">-</span> <span class="n">r2</span><span class="o">*</span><span class="n">x0</span><span class="p">)</span><span class="o">/</span><span class="p">(</span><span class="n">r1</span> <span class="o">-</span> <span class="n">r2</span><span class="p">)</span>
-        <span class="n">C2</span> <span class="o">=</span> <span class="n">x0</span> <span class="o">-</span> <span class="n">C1</span>
-        <span class="n">x</span> <span class="o">=</span> <span class="p">(</span><span class="n">C1</span><span class="o">*</span><span class="n">np</span><span class="o">.</span><span class="n">exp</span><span class="p">(</span><span class="n">r1</span><span class="o">*</span><span class="p">(</span><span class="n">t</span><span class="o">+</span><span class="n">phi</span><span class="o">/</span><span class="n">omega0</span><span class="p">))</span> <span class="o">+</span> <span class="n">C2</span><span class="o">*</span><span class="n">np</span><span class="o">.</span><span class="n">exp</span><span class="p">(</span><span class="n">r2</span><span class="o">*</span><span class="p">(</span><span class="n">t</span><span class="o">+</span><span class="n">phi</span><span class="o">/</span><span class="n">omega0</span><span class="p">)))</span>
-    <span class="k">return</span> <span class="n">x</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">t</span><span class="p">,</span><span class="n">damped_solution</span><span class="p">(</span><span class="n">t</span><span class="p">,</span> <span class="n">x0</span><span class="p">,</span> <span class="n">v0</span><span class="p">,</span> <span class="n">omega0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="n">phi</span><span class="p">))</span> <span class="c1">#Need a plot for each type of oscillation with correct beta values</span>
-</pre></div>
-</div>
-</div>
-<div class="cell_output docutils container">
-<div class="output traceback highlight-ipythontb notranslate"><div class="highlight"><pre><span></span>  <span class="n">Cell</span> <span class="n">In</span><span class="p">[</span><span class="mi">1</span><span class="p">],</span> <span class="n">line</span> <span class="mi">5</span>
-    <span class="n">omega0</span> <span class="o">=</span>      <span class="c1"># natural frequency (rad/s)</span>
-                  <span class="o">^</span>
-<span class="ne">SyntaxError</span>: invalid syntax
-</pre></div>
-</div>
-</div>
-</div>
+  <section class="tex2jax_ignore mathjax_ignore" id="projects">
+<h1>Projects<a class="headerlink" href="#projects" title="Link to this heading">#</a></h1>
+<p>Project guides will be posted here and turned in as jupyter notebook files via email.</p>
 </section>
 
     <script type="text/x-thebe-config">
@@ -498,12 +418,12 @@ Along the way also make sure to address any questions commented next to specific
                   
 <div class="prev-next-area">
     <a class="left-prev"
-       href="Baseball_Falling.html"
+       href="Homework.html"
        title="previous page">
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">Project 1</p>
+        <p class="prev-next-title">Homework</p>
       </div>
     </a>
     <a class="right-next"
@@ -521,26 +441,6 @@ Along the way also make sure to address any questions commented next to specific
             </div>
             
             
-              
-                <dialog id="pst-secondary-sidebar-modal"></dialog>
-                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
-
-
-  <div class="sidebar-secondary-item"><div
-    id="pst-page-navigation-heading-2"
-    class="page-toc tocsection onthispage">
-    <i class="fa-solid fa-list"></i> Contents
-  </div>
-  <nav id="pst-page-toc-nav" class="page-toc" aria-labelledby="pst-page-navigation-heading-2">
-    <ul class="pst-show_toc_level nav section-nav flex-column">
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Project 2</a></li>
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#instructions">Instructions</a></li>
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#code-shell">Code Shell</a></li>
-</ul>
-
-  </nav></div>
-
-</div></div>
               
             
           </div>
