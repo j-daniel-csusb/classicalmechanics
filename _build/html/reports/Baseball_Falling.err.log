@@ -28,46 +28,29 @@ Traceback (most recent call last):
     raise CellExecutionError.from_cell_and_msg(cell, exec_reply_content)
 nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:
 ------------------
-import numpy as np
-import matplotlib.pyplot as plt
+from pylab import plt, mpl
+import seaborn as sns
+sns.set_theme()
 
-# Parameters 
-omega0 =      # natural frequency (rad/s)
-x0     =     # initial amplitude (m)
-phi    =   # phase angle (radians)
-v0     = 0     # initial velocity (m/s)
-T      =    # total simulation time (s)
+mpl.rcParams['font.family'] = 'serif'
 
-t = np.linspace(0, T, 1000)
-
-def damped_solution(t, x0, v0, omega0, beta, phi=0.0):
-    """
-    Return x(t) for a damped oscillator with damping coefficient β and phase φ.
-    Equation: x'' + 2βx' + ω₀²x = 0
-    """
-    if beta == 0:  # What type of oscillation?
-        x = #insert equation for specified oscillation type.
-    elif beta < omega0:  # What type of oscillation?
-        omega1 = #insert equation for omega 1
-        x = #insert equation for specified oscillation type.
-    elif np.isclose(beta, omega0):  # What type of oscillation?
-        C1 = x0
-        C2 = v0+beta*x0
-        x = (C1 + C2*(t+phi/omega0))*np.exp(-beta*(t+phi/omega0))
-    elif: beta > omega0 # What type of oscillation?
-        r1 = -beta + np.sqrt(beta**2 - omega0**2)
-        r2 = -beta - np.sqrt(beta**2 - omega0**2)
-        C1 = (v0 - r2*x0)/(r1 - r2)
-        C2 = x0 - C1
-        x = (C1*np.exp(r1*(t+phi/omega0)) + C2*np.exp(r2*(t+phi/omega0)))
-    return x
-plt.plot(t,damped_solution(t, x0, v0, omega0, 0, phi)) #Need a plot for each type of oscillation with correct beta values
+def MakePlot(x,y, styles, labels, axlabels):
+    plt.figure(figsize=(10,6))
+    for i in range(len(x)):
+        plt.plot(x[i], y[i], styles[i], label = labels[i])
+        plt.xlabel(axlabels[0])
+        plt.ylabel(axlabels[1])
+    plt.legend(loc=0)
 ------------------
 
 
-  [36mCell[39m[36m [39m[32mIn[1][39m[32m, line 5[39m
-[31m    [39m[31momega0 =      # natural frequency (rad/s)[39m
-                  ^
-[31mSyntaxError[39m[31m:[39m invalid syntax
+[31m---------------------------------------------------------------------------[39m
+[31mModuleNotFoundError[39m                       Traceback (most recent call last)
+[36mCell[39m[36m [39m[32mIn[2][39m[32m, line 2[39m
+[32m      1[39m [38;5;28;01mfrom[39;00m[38;5;250m [39m[34;01mpylab[39;00m[38;5;250m [39m[38;5;28;01mimport[39;00m plt, mpl
+[32m----> [39m[32m2[39m [38;5;28;01mimport[39;00m[38;5;250m [39m[34;01mseaborn[39;00m[38;5;250m [39m[38;5;28;01mas[39;00m[38;5;250m [39m[34;01msns[39;00m
+[32m      3[39m sns.set_theme()
+[32m      5[39m mpl.rcParams[[33m'[39m[33mfont.family[39m[33m'[39m] = [33m'[39m[33mserif[39m[33m'[39m
 
+[31mModuleNotFoundError[39m: No module named 'seaborn'
 

@@ -1,34 +1,47 @@
 # Course Syllabus
-*Fall Semester 2025*
-
-
-![California State University, San Bernardino - Wikipedia](Syllabus.002.png)
+ ![ref1]*Fall Semester 2026*
 
 
 
-**PHYS 3200 – Classical Mechanics**
+![California State University, San Bernardino - Wikipedia](Syllabus2026.002.png)
+
+**Course Syllabus**
+
+**PHYS 3200 – Classical Mechanics Fall 2026**
 
 **Instructor Information**
 
 **Instructor Name:** Dr. Jonathan K Daniel
 
-**Phone:** 909-537-4288 **Cell:** 559-203-8551
+**Cell:** 559-203-8551
 
 **Email:** jonathan.daniel@csusb.edu
 
 **Office:** PS - 111
 
-**Office Hours:** TR 2:00 pm – 3:00 pm, and by appointment
+**Office Hours:** Tuesday/Thursday 11:30 am – 12:30 pm, and by appointment
 
 **Course Information\
 Course Title:** Classical Mechanics, PHYS 3200\
 **Class Time:** TR 3:00 pm - 4:45 pm\
-**Classroom:** Physical Science Building 209\
+**Classroom:** Physical Science Building 133\
 **Prerequisites/Math Preparation:** PHYS 2510 and PHYS 2520L **Corequisite**: PHYS 3100 
+
+**Course Overview**
+
+PHYS 3200 is the upper-division study of classical mechanics, the study of motion. You began learning classical mechanics in PHYS 2500 (we will now revisit some of this material at a higher level and with more mathematics). You will also learn some new techniques that will make certain types of otherwise difficult problems much easier (just as in PHYS 2500, you learned that using conservation of energy made certain problems easier than using forces).
+
+This course is a problem-solving-heavy course involving a detailed mathematical framework. You should try to solve as many problems as possible. Make sure to work through the homework and examples in the lecture.
+
+We will be utilizing basic coding skills in python, but no previous experience is required. Most of the ‘coding’ will be given to you as a scaffolded shell in which you will input the physics required for the computation to work. You will be expected to comment on what the code is doing, what individual pieces mean, and why specific sections are important.
 
 **Department of Physics Mission Statement:**
 
 Our mission is to teach students how to measure, describe, and explain natural phenomena through scientific investigation and critical thinking. Students learn the concepts of physics, quantitative methods for analysis, experimental techniques for testing theoretical predictions, and the skills necessary to discover new phenomena. The study of a range of fundamental topics and the underlying theory reveals physics to be a stimulating and rewarding discipline that has important connections to other sciences, modern technology, and society as a whole.
+
+
+
+
 
 **Relevant Program-level Student Learning Goals and Outcomes:** 
 
@@ -61,17 +74,11 @@ There will be a secondary website hosting an interactive Jupyter Book containing
 
 Our goal is to cover most topics in chapters 1-13 in Taylor, the first ~5-6 chapters of the book will be mostly review of topics covered in General Physics I (Phys 2500). It is best if you read ahead in the book, then our coverage in class will reinforce your reading.** 
 
-*Elementary Mechanics using Python, by Anders Malthe-Sørenssen*
+*Elementary Mechanics using Python, by Anders Malthe-Sørenssen (Recommended not required):*
 
-We will use this book as a computational resource and cover most of the material within it. While this book is required you will not be forced to read it but use it as reference as we work through our computational endeavors. Most of the computational examples will come from this text.
+We will use this book as a computational resource and cover some of the material within it :
 
-**Course Overview**
-
-PHYS 3200 is the upper-division study of classical mechanics, the study of motion. You began learning classical mechanics in PHYS 2500 (we will now revisit some of this material at a higher level and with more mathematics). You will also learn some new techniques that will make certain types of otherwise difficult problems much easier (just as in PHYS 2500, you learned that using conservation of energy made certain problems easier than using forces).
-
-This course is a problem-solving-heavy course involving a detailed mathematical framework. You should try to solve as many problems as possible. Make sure to work through the homework and examples in the lecture.
-
-We will be utilizing basic coding skills in python, but no previous experience is required. Most of the ‘coding’ will be given to you as a scaffolded shell in which you will input the physics required for the computation to work. You will be expected to comment on what the code is doing, what individual pieces mean, and why specific sections are important.
+(Chapters 1,2,5,6,7,11,12) You will have recommended (NOT REQUIRED) reading from this text as we will use it as reference as we work through our computational endeavors. Computational examples will come from this text. Some homework problems will also be pulled from the text.
 
 **Homework**: Homework will be assigned and posted on Canvas for each chapter. You are strongly encouraged to work through the homework along with the lectures. Due dates will be posted on Canvas. There will be a penalty for late submission. Homework solutions will be posted regularly on Canvas as well. You are encouraged to work together on homework. The homework itself will vary week to week and consist of problems from the book(s) as well as mini-computational projects.
 
@@ -83,25 +90,25 @@ We will be utilizing basic coding skills in python, but no previous experience i
 
 While we will not have a portion of the overall grade reflect class attendance it is important to attend all scheduled class meetings. A few missed lectures due to unforeseen circumstances will not be a problem, however you will not be successful in this course without attending lectures. All quizzes will be assigned during class time and will occur at varying times throughout the semester, missing one class could put you at risk of missing quizzes or important instruction. If there are circumstances that prevent you from attending a class meeting let the instructor know in as far in advance as possible so that arrangements can be made, if there is no attempt to adequately inform the instructor no make-up work will be available for any missed material due to absence.
 
-**Curriculum Schedule**
+**Curriculum Schedule\***
 
 |Week |Tuesday|Thursday|
 | :- | :- | :- |
-|1 (8/25-29)|Introduction to Course & Taylor Ch 1/2|Taylor Ch 1/2 (HW 0)|
-|2 (9/1-5)|Taylor Ch 1/2|Taylor Ch 1/2 (HW 1)|
-|3 (9/8-12)|Taylor Ch 3 (Quiz 1)|Taylor Ch 3    (Project 1)|
-|4 (9/15-19)|Taylor Ch 3 (Quiz 2)|Taylor Ch 4     (HW 2)|
-|5 (9/22-26)|Taylor Ch 4|Taylor Ch 4   (HW 3)|
-|6 (9/29-10/3)|Taylor Ch 5 (Quiz 3)|Taylor Ch 5   (Project 2)|
-|7 (10/6-10)|Taylor Ch 5 (Quiz 4)|Taylor Ch 6 (HW 4)|
-|8 (10/13-17)|Taylor Ch 6|Taylor Ch 6 (HW 5)|
-|9 (10/20-24)|Taylor Ch 6/7 (Quiz 5)|Taylor Ch 7|
-|10 (10/27-31)|Taylor Ch 7|Taylor Ch 7 (Project 3)|
-|11 (11/3-7)|Taylor Ch 7 (Quiz 6)|Taylor Ch 7/8 (HW 6)|
-|12 (11/10-14)|Taylor Ch 8|Taylor Ch 8 (Start Final Project)|
-|13 (11/17-21)|Taylor Ch 8 (Quiz 7)|Taylor Ch 13 (HW 7)|
-|14 (11/24-28)|Taylor Ch 13|No Class|
-|15 (12/1-5)|Taylor Ch 13 (Quiz 8)|Final Project Wrap Up|
+|1 (8/24-28)|Introduction to Course & Taylor Ch 1/2|Taylor Ch 1/2 (HW 0) *(Sørenssen 1)*|
+|2 (8/31-9/4)|Taylor Ch 1/2|Taylor Ch 1/2 (HW 1) |
+|3 (9/7-11)|Taylor Ch 3 (Quiz 1) (Note Check 1)|Taylor Ch 3 (Project 1) *(Sørenssen 2)*|
+|4 (9/15-18)|Taylor Ch 3 (Quiz 2)|Taylor Ch 4 (HW 2)|
+|5 (9/21-25)|Taylor Ch 4|Taylor Ch 4 (HW 3) *(Sørenssen 4/5)*|
+|6 (9/28-10/2)|Taylor Ch 5 (Quiz 3) (Note Check 2)|Taylor Ch 5 (Project 2)|
+|7 (10/5-9)|Taylor Ch 5 (Quiz 4)|Taylor Ch 6 (HW 4) *(Sørenssen 6/7)*|
+|8 (10/12-16)|Taylor Ch 6|Taylor Ch 6 (HW 5)|
+|9 (10/19-23)|Taylor Ch 6/7 (Quiz 5) (Note Check 3)|Taylor Ch 7 *(Sørenssen 11/12)*|
+|10 (10/26-30)|Taylor Ch 7|Taylor Ch 7 (Project 3)|
+|11 (11/2-6)|Taylor Ch 7 (Quiz 6) |Taylor Ch 7/8 (HW 6)|
+|12 (11/9-13)|Taylor Ch 8 (Note Check 4)|Taylor Ch 8 (Start Final Project)|
+|13 (11/16-20)|Taylor Ch 8 (Quiz 7)|Taylor Ch 13 (HW 7)|
+|14 (11/23-27)|Taylor Ch 13|No Class|
+|15 (11/30-12/4)|Taylor Ch 13 (Quiz 8) (Note Check 5)|Final Project Wrap Up|
 |Finals |Final Project Presentations||
 
 \*subject to change based on progress through material
@@ -110,26 +117,29 @@ While we will not have a portion of the overall grade reflect class attendance i
 
 Your grade for this course is based on the following activities, weighted as shown.
 
+**Evaluation Only. Created with Aspose.Words. Copyright 2003-2026 Aspose Pty Ltd.**
+![ref2]
+
 **Grade Distribution Percentage** 
 
-Lecture notes		 5%
+**Lecture notes		 5%**
 
-Keeping detailed and useful lecture notes is a requirement for succeeding in learning any topic and to depict this importance a portion (5%) of your entire grade will be based on taking notes during lecture. We will have 5 notebook check-ins throughout the semester in which I will evaluate your note keeping, each check-in will contribute 1% towards the cumulative total. Your notes can be in any legible form be it a physical or E-notebook. 
+Keeping detailed and useful lecture notes is a requirement for succeeding in learning any topic and to depict this importance a portion (5%) of your entire grade will be based on taking notes during lecture. We will have 5 (~once every 3 weeks) notebook check-ins throughout the semester in which I will evaluate your note keeping, each check-in will contribute 1% towards the cumulative total. Your notes can be in any legible form be it a physical or E-notebook. 
 
-In class Participation		10%
+**In class Participation		10%**
 
 This course will require in class participation in the form of asking questions, completing worksheets, sharing with peers, and open form problem solving. All of these will be graded based on participation, not correctness.
 
-Homework		15%
+**Homework		15%**
 
-We will have weekly homework assignments or projects in which students will work on assigned problems from the book and some weeks we will have ‘mini-computational’ projects that students will be tasked with. Homework will be graded both on completion and randomly on correctness for a chosen number of problems from any assigned problem set. All homework will have posted solutions shortly after the due dates. All homework assignments will have an optional reflection to make up for a portion of any lost points on the assignment, these reflections will be due one week after the solutions for the original assignment are posted.
+We will have weekly homework assignments or projects in which students will work on assigned problems from the book and some weeks we will have ‘mini-computational’ projects that students will be tasked with (~3 in total). Homework will be graded both on completion and randomly on correctness for a chosen number of problems from any assigned problem set. All homework will have posted solutions shortly after the due dates. All homework assignments will have an optional reflection to make up for a portion of any lost points on the assignment, these reflections will be due one week after the solutions for the original assignment are posted.
 
 \
-End of Topic Quizzes   40%   
+**End of Topic Quizzes   40%**   
 
-We will have a short quiz (~20-30 mins) at the end of each chapter we cover during this course. We plan to cover around 8 chapters so that means there will be roughly 8 quizzes, where each quiz will account for roughly ~5% of your total grade. The cumulative score of all quizzes will be based on only 6 out of the 8 total quizzes, this means that roughly 2 quizzes will be dropped depending on the number of chapters we cover throughout the course. If the quiz was previously attempted, students will also have a chance to complete an optional reflection for any quiz they choose that will be worth 50% of any missing points for a given quiz. The optional reflection will be due one week after grades and/or solutions are posted for the designated quiz.
+We will have a short quiz (~20-30 mins) at the end of each chapter we cover during this course. We plan to cover around 8 chapters so that means there will be roughly 8 quizzes, where each quiz will account for roughly ~5% of your total grade. The cumulative score of all quizzes will be based on only 6 out of the 8 total quizzes; this means that roughly 2 quizzes will be dropped depending on the number of chapters we cover throughout the course. If the quiz was previously attempted, students will also have a chance to complete an optional reflection for any quiz they choose that will be worth 50% of any missing points for a given quiz. The optional reflection will be due one week after grades and/or solutions are posted for the designated quiz.
 
-Final Project                30%   
+**Final Project                30%**   
 
 Each student will demonstrate what they learned throughout the course by identifying a classical mechanics-based problem and attempting to solve and/or analyze it. This will be done in the form of a formal project. Which will consist of: A literature review covering the aspects and key ideas of the problem, a computational/analytical analysis of the problem, identification of a solution or application of the problem and a class presentation tying it all together and relaying it to an audience. 
 
@@ -141,9 +151,9 @@ A commented and organized jupyter notebook for all the code required for the pro
 
 A short (~8 min) in class presentation (10%)
 
-Extra Credit:
+**Extra Credit:**
 
-Office Hours               up to 5%
+**Office Hours               up to 5%**
 
 Attending office hours and asking questions is a proven way to better your understanding of any course you are taking, and we will be reflecting on this importance through the opportunity of extra credit by attending ***at least 5*** office hour sessions throughout the semester. Not only will attending these sessions help you with your understanding of course material it will create a comfortable and fun classroom environment.
 
@@ -167,7 +177,8 @@ Students must make appropriate acknowledgments of the original source where mate
 
 Questions about academic dishonesty and the policy should be addressed to the Office of the Vice President, Student Affairs. 
 
-ChatGPT and Generative AI Tools Policy
+
+**ChatGPT and Generative AI Tools Policy:**
 
 The best way to learn is through practice! This course’s activities and the grading scheme have been created to reward learning through practice, even if you do not get it right the first time! As such, this course assumes that work submitted by students – all process work, drafts, brainstorming artifacts, final works – will be generated by the students themselves, working individually or in groups as directed by class assignment instructions. This policy indicates the following constitute violations of academic honesty: a student has another person/entity do the work of any substantive portion of a graded assignment for them, which includes purchasing work from a company, hiring a person or company to complete an assignment or exam, and/or using generative AI tools (such as ChatGPT) to generate work and claiming it as one’s own. There will be uses for generative AI tools in this course, however their use must be referenced, and the prompts used to generate any used work must be retained for reference. It must be made clear to the instructor that any additional generative tools were used and in what specific capacity, such as implicit permission, must be obtained by asking the instructor for guidance whenever generative AI tools are implemented.
 
@@ -181,3 +192,7 @@ In keeping with the university’s Commitment to Diversity, the faculty of the C
 **Disclaimer**
 
 This syllabus is subject to change with reasonable notice. Changes will be announced in class and the new syllabus will be uploaded to Canvas.					
+**Evaluation Only. Created with Aspose.Words. Copyright 2003-2026 Aspose Pty Ltd.**
+
+[ref1]: Syllabus2026.001.png
+[ref2]: Syllabus2026.003.png

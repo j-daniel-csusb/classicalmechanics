@@ -7,7 +7,7 @@ root: intro
 parts:
   - caption: Class information and Important Materials
     chapters:
-    - file : Syllabus
+    - file : Syllabus2026
     - file : Resources
   - caption: Introduction to Python and Newtonian Mechanics
     chapters:
@@ -15,8 +15,7 @@ parts:
     - file: Oscillating_Skateboard
   - caption: Homework
     chapters:
-    - file: HW0
-    - file: HW1
+    - file: Homework
   - caption: Projects
     chapters:
     - file: Baseball_Falling
