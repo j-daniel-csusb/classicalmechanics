@@ -1,5 +1,5 @@
 # Course Syllabus
- ![ref1]*Fall Semester 2026*
+*Fall Semester 2026*
 
 
 
@@ -117,8 +117,7 @@ While we will not have a portion of the overall grade reflect class attendance i
 
 Your grade for this course is based on the following activities, weighted as shown.
 
-**Evaluation Only. Created with Aspose.Words. Copyright 2003-2026 Aspose Pty Ltd.**
-![ref2]
+
 
 **Grade Distribution Percentage** 
 
@@ -192,7 +191,7 @@ In keeping with the university’s Commitment to Diversity, the faculty of the C
 **Disclaimer**
 
 This syllabus is subject to change with reasonable notice. Changes will be announced in class and the new syllabus will be uploaded to Canvas.					
-**Evaluation Only. Created with Aspose.Words. Copyright 2003-2026 Aspose Pty Ltd.**
+
 
 [ref1]: Syllabus2026.001.png
 [ref2]: Syllabus2026.003.png

@@ -9,17 +9,17 @@ parts:
     chapters:
     - file : Syllabus2026
     - file : Resources
-  - caption: Introduction to Python and Newtonian Mechanics
+  - caption: Class Notes and Examples
     chapters:
     - file: Classroom_notes
-    - file: Oscillating_Skateboard
+    - file: 
   - caption: Homework
     chapters:
     - file: Homework
   - caption: Projects
     chapters:
-    - file: Baseball_Falling
-    - file: Project2_Shell
+    - file: Projects
+    - file: 
   - caption: End of Topic Quizzes
     chapters:
     - file: End_Of_Topic_Quizzes
