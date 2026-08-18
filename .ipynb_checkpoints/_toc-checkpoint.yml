@@ -11,15 +11,13 @@ parts:
     - file : Resources
   - caption: Class Notes and Examples
     chapters:
-    - file: Classroom_notes
-    - file: 
+    - file: Classroom_notes 
   - caption: Homework
     chapters:
     - file: Homework
   - caption: Projects
     chapters:
     - file: Projects
-    - file: 
   - caption: End of Topic Quizzes
     chapters:
     - file: End_Of_Topic_Quizzes
