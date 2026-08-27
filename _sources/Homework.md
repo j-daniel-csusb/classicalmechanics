@@ -1,6 +1,8 @@
 # Homework
 
-Homework will be posted here and on Canvas, will be turn in on gradescope.
+Homework will be posted here and on Canvas,it will be turned in on gradescope.
+
+Homework 0: [Gradescope Practice](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Homework/PHYS_3200__HW_0__Fall_2026_.pdf)
 
 <!-- Homework 2025
 
