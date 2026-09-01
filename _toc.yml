@@ -15,6 +15,9 @@ parts:
   - caption: Homework
     chapters:
     - file: Homework
+  - caption: Example Code and Shells
+    chapters:
+    - file: Oscillating_Skateboard
   - caption: Projects
     chapters:
     - file: Projects

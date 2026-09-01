@@ -4,7 +4,7 @@ Homework will be posted here and on Canvas,it will be turned in on gradescope.
 
 Homework 0: [Gradescope Practice](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Homework/PHYS_3200__HW_0__Fall_2026_.pdf)
 
-Homework 1: [Chapter 1](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Homework/PHYS_3200___HW_1__Fall_2026_.pdf)
+Homework 1: [Chapter 1](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Homework/PHYS_3200__HW_1__Fall_2026_.pdf)
 
 <!-- Homework 2025
 

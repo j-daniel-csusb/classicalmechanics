@@ -1,0 +1,99 @@
+Traceback (most recent call last):
+  File "C:\Users\jonat\miniconda3\envs\CSUSBResearch\Lib\site-packages\jupyter_cache\executors\utils.py", line 58, in single_nb_execution
+    executenb(
+    ~~~~~~~~~^
+        nb,
+        ^^^
+    ...<4 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "C:\Users\jonat\miniconda3\envs\CSUSBResearch\Lib\site-packages\nbclient\client.py", line 1323, in execute
+    return NotebookClient(nb=nb, resources=resources, km=km, **kwargs).execute()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\jonat\miniconda3\envs\CSUSBResearch\Lib\site-packages\jupyter_core\utils\__init__.py", line 165, in wrapped
+    return loop.run_until_complete(inner)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\jonat\miniconda3\envs\CSUSBResearch\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\jonat\miniconda3\envs\CSUSBResearch\Lib\site-packages\nbclient\client.py", line 709, in async_execute
+    await self.async_execute_cell(
+        cell, index, execution_count=self.code_cells_executed + 1
+    )
+  File "C:\Users\jonat\miniconda3\envs\CSUSBResearch\Lib\site-packages\nbclient\client.py", line 1062, in async_execute_cell
+    await self._check_raise_for_error(cell, cell_index, exec_reply)
+  File "C:\Users\jonat\miniconda3\envs\CSUSBResearch\Lib\site-packages\nbclient\client.py", line 918, in _check_raise_for_error
+    raise CellExecutionError.from_cell_and_msg(cell, exec_reply_content)
+nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:
+------------------
+# --- 1. Define the system of first-order differential equations ---
+def skateboard_pendulum(t, y, g, R):
+    """
+    Defines the system of first-order ODEs for an oscillating skateboard.
+    y[0] = phi (angle)
+    y[1] = omega (angular velocity)
+    """
+    phi, omega = y 
+
+    
+    ### Two first order ODE's where first term is ODE for phi and second term is ODE for omega###
+    
+    ### Input the second term which is the ODE for omega (hint: simply use the equations above ####
+    dydt = [omega,] #<---------THIS IS A BROKEN LINE
+
+    return dydt
+
+# --- 2. Set initial conditions and parameters ---
+# Parameters
+g =    # Acceleration due to gravity (m/s^2) #<---------THIS IS A BROKEN LINE
+R = # Effective length to center of gravity (meters) #<---------THIS IS A BROKEN LINE
+
+# Initial conditions
+phi_initial = np.radians()  # Initial angle in radians #<---------THIS IS A BROKEN LINE
+omega_initial =          # Initial angular velocity (starting from rest) #<---------THIS IS A BROKEN LINE
+y0 = [, omega_initial] #<---------THIS IS A BROKEN LINE
+
+# Time span for the simulation
+t_span = (0, )  # Simulate from 0 to at least 2 periods #<---------THIS IS A BROKEN LINE
+t_eval = np.linspace(t_span[0], t_span[1], 500)
+
+# --- 3. Solve the differential equation ---
+solution = solve_ivp(
+    skateboard_pendulum, 
+    t_span, 
+    y0, 
+    args=(g, R), 
+    t_eval=t_eval
+)
+
+# --- 4. Plot the results ---
+phi_sol = solution.y[] #<---------THIS IS A BROKEN LINE
+omega_sol = solution.y[] #<---------THIS IS A BROKEN LINE
+
+# Convert angle back to degrees for plotting
+phi_degrees = np.degrees(phi_sol)
+
+#Approximate Solution
+
+approx_phi = phi_initial*np.cos(np.sqrt(g/R)*t_eval)
+
+plt.figure(figsize=(10, 6))
+plt.plot(solution.t, phi_degrees, label='Numerical Solution')
+plt.plot(t_eval,np.degrees(approx_phi),label='Approximate Solution')
+plt.xlabel('Time (s)')
+plt.ylabel('Angle (degrees)')
+plt.title('Oscillating Skateboard Angle vs. Time')
+plt.grid(True)
+plt.legend()
+plt.show()
+------------------
+
+
+  [36mCell[39m[36m [39m[32mIn[3][39m[32m, line 20[39m
+[31m    [39m[31mg =    # Acceleration due to gravity (m/s^2) #<---------THIS IS A BROKEN LINE[39m
+           ^
+[31mSyntaxError[39m[31m:[39m invalid syntax
+
+
