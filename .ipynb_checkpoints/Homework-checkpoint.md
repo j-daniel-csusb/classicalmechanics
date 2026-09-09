@@ -6,6 +6,8 @@ Homework 0: [Gradescope Practice](https://github.com/j-daniel-csusb/classicalmec
 
 Homework 1: [Chapter 1](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Homework/PHYS_3200__HW_1__Fall_2026_.pdf)
 
+Homework 2: [Chapter 2](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Homework/PHYS_3200__HW_2__Fall_2026_.pdf)
+
 <!-- Homework 2025
 
 Homework 0: [Gradescope Practice](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Homework/PHYS_3200___HW0.pdf)
