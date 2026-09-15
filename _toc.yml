@@ -18,6 +18,7 @@ parts:
   - caption: Example Code and Shells
     chapters:
     - file: Oscillating_Skateboard
+    - file: Taylor_Ch1-3_Force_to_Motion_Project
   - caption: Projects
     chapters:
     - file: Projects
