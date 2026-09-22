@@ -6,7 +6,11 @@ Optional Reflections: [Reflection Questions](https://github.com/j-daniel-csusb/c
 
 Quiz 1: [Chapter 1 Quiz](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Quizzes/Phys_3200___End_of_Topic_Quiz_1__Fall_2026_.pdf)
 
+Quiz 2: [Chapter 2 Quiz](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Quizzes/Phys_3200___End_of_Topic_Quiz_2__Fall_2026_.pdf)
+
 Solutions 1: [Chapter 1 Solutions](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Quizzes/Quiz_Solutions/Quiz1_Solutions.pdf)
+
+Solutions 1: [Chapter 2 Solutions](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Quizzes/Quiz_Solutions/Quiz2_Solutions.pdf)
 
 
 <!-- 2025 Quizzes
