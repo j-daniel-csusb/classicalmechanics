@@ -14,6 +14,8 @@ Solutions 1: [Chapter 1 Solutions](https://github.com/j-daniel-csusb/classicalme
 
 Solutions 2: [Chapter 2 Solutions](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Quizzes/Quiz_Solutions/Quiz2_Solutions.pdf)
 
+Solutions 3: [Chapter 3 Solutions](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Quizzes/Quiz_Solutions/Quiz3_Solutions.pdf)
+
 
 <!-- 2025 Quizzes
 
