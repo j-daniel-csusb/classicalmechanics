@@ -21,6 +21,8 @@ Homework 2 Solutions: [Chapter 2](https://github.com/j-daniel-csusb/classicalmec
 
 Homework 3 Solutions: [Chapter 3](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Homework_Solutions/HW3_Solutions.pdf)
 
+Homework 4 Solutions: [Chapter 4](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Homework_Solutions/HW4_Solutions.pdf)
+
 
 <!-- Homework 2025
 
