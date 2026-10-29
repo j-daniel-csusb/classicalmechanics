@@ -14,6 +14,10 @@ Homework 4: [Chapter 4](https://github.com/j-daniel-csusb/classicalmechanics/blo
 
 Homework 5: [Chapter 5](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Homework/PHYS_3200__HW_5__Fall_2026_.pdf)
 
+Homework 6: [Chapter 6](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Homework/PHYS_3200__HW_6__Fall_2026_.pdf)
+
+
+
 
 Homework 1 Solutions: [Chapter 1](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Homework_Solutions/HW1_Solutions.pdf)
 
@@ -22,6 +26,8 @@ Homework 2 Solutions: [Chapter 2](https://github.com/j-daniel-csusb/classicalmec
 Homework 3 Solutions: [Chapter 3](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Homework_Solutions/HW3_Solutions.pdf)
 
 Homework 4 Solutions: [Chapter 4](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Homework_Solutions/HW4_Solutions.pdf)
+
+Homework 5 Solutions: [Chapter 5](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Homework_Solutions/HW5_Solutions.pdf)
 
 
 <!-- Homework 2025

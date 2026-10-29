@@ -15,6 +15,11 @@ parts:
   - caption: Homework
     chapters:
     - file: Homework
+  - caption: Example Code and Shells
+    chapters:
+    - file: Oscillating_Skateboard
+    - file: Taylor_Ch1-3_Force_to_Motion_Project
+    - file: Taylor_Ch4-5_Energy_and_Oscillations_Project
   - caption: Projects
     chapters:
     - file: Projects
