@@ -4,3 +4,5 @@ Projects will be posted here in the form of jupyter notebooks,responses will be 
 
 Project 1: [Taylor_Ch1-3_Force_to_Motion_Project](Resources/Projects/Taylor_Ch1-3_Force_to_Motion_Project.ipynb)
 
+Project 2: [Taylor_Ch4-5_Energy_and_Oscillations_Project](Resources/Projects/Taylor_Ch4-5_Energy_and_Oscillations_Project.ipynb)
+
