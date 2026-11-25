@@ -18,7 +18,7 @@ Quiz 6: [Chapter 6 Quiz](https://github.com/j-daniel-csusb/classicalmechanics/bl
 
 Quiz 7: [Chapter 7 Quiz](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Quizzes/Phys_3200___End_of_Topic_Quiz_7__Fall_2026_.pdf)
 
-Quiz 8: [Chapter 13 Quiz](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Quizzes/Phys_3200___End_of_Topic_Quiz_8__Fall_2026_.pdf)
+Quiz 8: [Chapter 13 Quiz](https://github.com/j-daniel-csusb/classicalmechanics/blob/master/Resources/Quizzes/Phys_3200___End_of_Topic_Quiz_8__Fall_2026___Take_Home_.pdf)
 
 
 
