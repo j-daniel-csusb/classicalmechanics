@@ -6,3 +6,10 @@ Project 1: [Taylor_Ch1-3_Force_to_Motion_Project](Resources/Projects/Taylor_Ch1-
 
 Project 2: [Taylor_Ch4-5_Energy_and_Oscillations_Project](Resources/Projects/Taylor_Ch4-5_Energy_and_Oscillations_Project.ipynb)
 
+Final Project Overview: [Final_Project_Overview](Resources/Projects/Final_Project_Overview.pdf)
+
+Computational Rubric: [Final_Project_Computational_Rubric](Resources/Projects/Final_Project_Computational_Rubric.pdf)
+
+Presentation Rubric: [Final_Project_Computational_Rubric](Resources/Projects/Final_Project_Presentation_Rubric.pdf)
+
+Report Rubric: [Final_Project_Computational_Rubric](Resources/Projects/Final_Project_Report_Rubric.pdf)
